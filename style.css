@@ -1,4 +1,8 @@
 body {
 	display: block;
 	background-color: red;
+	
+}
+a {
+	color: yellow;
 }
